@@ -5,7 +5,11 @@ Worked out examples should be fully narrated, and no code cells should be left u
 
 Use a **naming convention** where each notebook file starts with a number, reflecting the order of the lessons in the tutorial.
 
-List all notebooks in this README.
+## List of notebooks
+
+As this is only one section of the tutorial, this repository only holds one notebook:
+
+- [`01-software-publication-and-citation.ipynb`](01-software-publication-and-citation.ipynb)
 
 Add any Python package dependencies to the requirements.txt in the parent directory.
 
